@@ -1,26 +1,25 @@
 # Hey, I'm Danny 👋
 
-I'm a CMU student who likes building useful things with data, software, and ML.
+I'm a CMU student building at the intersection of data, software, and ML.
 
-I'm mostly interested in data-heavy systems, reliable tools, and turning messy real-world workflows into something cleaner and easier to use.
+I like projects that start messy: scattered data, manual workflows, unclear metrics, weird edge cases, and turn them into something cleaner, faster, and actually useful.
 
-My work has been around data pipelines, analytics tooling, ML experiments, research workflows, and applied modeling.
+Recently, I've been working on:
 
-### Tech I use
+- data pipelines and analytics workflows
+- ML/image-editing experiments
+- research tools for scientific datasets
+- statistical modeling and product-style analysis
+- small software projects that help me understand systems from the ground up
+
+## 🛠 Tools I use
 
 Python, SQL, R, C, MATLAB  
 Pandas, NumPy, scikit-learn, PyTorch  
 Git, Docker, AWS, Spark, Airflow, dbt
 
-### Recently
-
-- Building data pipelines and experiment measurement workflows
-- Working on ML/image-editing pipelines
-- Automating research data workflows for large scientific datasets
-- Learning more about software engineering, data engineering, and applied ML
-
-### Fun facts
+## 🍜 Fun facts
 
 - I love trying new foods
 - I'm a big basketball fan
-- I like projects that start messy and turn into something useful
+- I’m usually drawn to projects where the first step is figuring out what’s even going on
