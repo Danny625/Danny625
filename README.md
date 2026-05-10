@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey, I'm Danny 👋
 
-<!--
-**Danny625/Danny625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CMU student who likes building useful things with data, software, and ML.
 
-Here are some ideas to get you started:
+I'm mostly interested in data-heavy systems, reliable tools, and turning messy real-world workflows into something cleaner and easier to use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work has been around data pipelines, analytics tooling, ML experiments, research workflows, and applied modeling.
+
+### Tech I use
+
+Python, SQL, R, C, MATLAB  
+Pandas, NumPy, scikit-learn, PyTorch  
+Git, Docker, AWS, Spark, Airflow, dbt
+
+### Recently
+
+- Building data pipelines and experiment measurement workflows
+- Working on ML/image-editing pipelines
+- Automating research data workflows for large scientific datasets
+- Learning more about software engineering, data engineering, and applied ML
+
+### Fun facts
+
+- I love trying new foods
+- I'm a big basketball fan
+- I like projects that start messy and turn into something useful
