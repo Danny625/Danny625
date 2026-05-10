@@ -20,6 +20,6 @@ Git, Docker, AWS, Spark, Airflow, dbt
 
 ## 🍜 Fun facts
 
-- I love trying new foods
-- I'm a big basketball fan
+- I love trying new foods, especially underrated spots that people randomly swear by
+- Big basketball fan. Let’s go Knicks 🗽
 - I’m usually drawn to projects where the first step is figuring out what’s even going on
