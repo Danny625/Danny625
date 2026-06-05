@@ -14,7 +14,7 @@ Recently, I've been working on:
 
 ## 🛠 Tools I use
 
-Python, SQL, R, C, MATLAB  
+Python, Java, SQL, R, C, MATLAB  
 Pandas, NumPy, scikit-learn, PyTorch  
 Git, Docker, AWS, Spark, Airflow, dbt
 
