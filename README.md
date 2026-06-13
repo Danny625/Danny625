@@ -7,16 +7,16 @@ I like projects that start messy: scattered data, manual workflows, unclear metr
 Recently, I've been working on:
 
 - data pipelines and analytics workflows
+- games and small software projects with APIs, databases, tests, and cleaner architecture
 - ML/image-editing experiments
 - research tools for scientific datasets
 - statistical modeling and product-style analysis
-- small software projects that help me understand systems from the ground up
 
 ## 🛠 Tools I use
 
-Python, Java, SQL, R, C, MATLAB  
-Pandas, NumPy, scikit-learn, PyTorch  
-Git, Docker, AWS, Spark, Airflow, dbt
+Python, Java, SQL, R, C, MATLAB
+Pandas, NumPy, scikit-learn, PyTorch
+Git, Docker, AWS, Spark, Airflow, dbt, FastAPI, SQLite
 
 ## 🍜 Fun facts
 
