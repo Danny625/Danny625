@@ -21,5 +21,5 @@ Git, Docker, Linux, AWS, REST APIs, SQLite
 ## 🍜 Fun facts
 
 - I love trying new foods, especially underrated spots that people randomly swear by
-- Big basketball fan... Let's go Knicks 🗽
+- Big basketball fan... let's go Knicks 🗽
 - I tend to like projects where I have to figure things out as I go
