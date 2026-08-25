@@ -2,7 +2,7 @@
 
 I'm a CMU student who likes building things with data, software, and ML.
 
-I’m usually drawn to projects that start a little messy, where the first step is figuring out what’s even going on. Those are usually the ones I end up enjoying the most.
+I’m drawn to projects that start a little messy, where the first step is figuring out what’s even going on. Those are usually the ones I end up enjoying the most.
 
 Recently, I've been working on:
 
