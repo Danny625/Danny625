@@ -10,7 +10,7 @@ Recently, I've been working on:
 - games and software projects with APIs, databases, tests, and cleaner architecture
 - ML and image-editing experiments
 - research tools for processing scientific datasets
-- web apps and other small software projects
+- web apps and other small builds
 
 ## 🛠 Tools I use
 
